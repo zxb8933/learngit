@@ -7,4 +7,8 @@ apple apera
 Greating a new breach is quick &simple
 passion,capte.
 creating invention.
+<<<<<<< HEAD
 address
+=======
+passion
+>>>>>>> a06a3b0cdd8ee5359943c2bfa8e5bdcb87761641
